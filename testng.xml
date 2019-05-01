@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Astro-awani">
+<listeners>
+<listener class-name ="com.ecoSystem.utilities.Reporting"/>
+</listeners>
+  <test thread-count="5" name="Awani1">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.ecoSystem.testCases.TC_GLTitle_C11907"/>
+      <class name="com.ecoSystem.testCases.GalleryPagePublishDate"/>
+      <class name="com.ecoSystem.testCases.HomePageVideo"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

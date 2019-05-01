@@ -1,0 +1,312 @@
+2019-04-28 17:57:11 INFO  BaseClass:46 - Driver Initialzed
+2019-04-28 17:57:29 INFO  BaseClass:57 - Site Opened
+2019-04-28 17:57:39 INFO  BaseClass:17 - Gallery link clicked
+2019-04-28 17:59:44 INFO  BaseClass:46 - Driver Initialzed
+2019-04-28 18:00:09 INFO  BaseClass:57 - Site Opened
+2019-04-28 18:00:14 INFO  BaseClass:17 - Gallery link clicked
+2019-04-28 18:04:02 INFO  BaseClass:46 - Driver Initialzed
+2019-04-28 18:04:24 INFO  BaseClass:57 - Site Opened
+2019-04-28 18:04:33 INFO  BaseClass:17 - Gallery link clicked
+2019-04-28 18:06:43 INFO  BaseClass:46 - Driver Initialzed
+2019-04-28 18:07:22 INFO  BaseClass:57 - Site Opened
+2019-04-28 18:07:31 INFO  BaseClass:17 - Gallery link clicked
+2019-04-28 18:07:31 INFO  BaseClass:22 - Gallery Listings Page is displayed
+2019-04-28 18:07:31 INFO  BaseClass:24 - Gallery Title is displayed
+2019-04-28 18:07:36 INFO  BaseClass:46 - Driver Initialzed
+2019-04-28 18:08:02 INFO  BaseClass:57 - Site Opened
+2019-04-28 18:08:11 INFO  BaseClass:20 - Gallery Listings Page is displayed
+2019-04-28 18:08:11 INFO  BaseClass:22 - Publish Date is displayed
+2019-04-28 18:13:20 INFO  BaseClass:46 - Driver Initialzed
+2019-04-28 18:13:33 INFO  BaseClass:57 - Site Opened
+2019-04-28 18:13:37 INFO  BaseClass:17 - Gallery link clicked
+2019-04-28 18:13:37 INFO  BaseClass:22 - Gallery Listings Page is displayed
+2019-04-28 18:13:37 INFO  BaseClass:24 - Gallery Title is displayed
+2019-04-28 18:13:41 INFO  BaseClass:46 - Driver Initialzed
+2019-04-28 18:13:54 INFO  BaseClass:57 - Site Opened
+2019-04-28 18:13:59 INFO  BaseClass:20 - Gallery Listings Page is displayed
+2019-04-28 18:13:59 INFO  BaseClass:22 - Publish Date is displayed
+2019-04-28 18:14:36 INFO  BaseClass:46 - Driver Initialzed
+2019-04-28 18:14:50 INFO  BaseClass:57 - Site Opened
+2019-04-28 18:14:54 INFO  BaseClass:17 - Gallery link clicked
+2019-04-28 18:14:58 INFO  BaseClass:46 - Driver Initialzed
+2019-04-28 18:15:11 INFO  BaseClass:57 - Site Opened
+2019-04-28 18:17:58 INFO  BaseClass:46 - Driver Initialzed
+2019-04-28 18:18:11 INFO  BaseClass:57 - Site Opened
+2019-04-28 18:18:16 INFO  BaseClass:17 - Gallery link clicked
+2019-04-28 18:18:21 INFO  BaseClass:46 - Driver Initialzed
+2019-04-28 18:18:33 INFO  BaseClass:57 - Site Opened
+2019-04-28 18:24:02 INFO  BaseClass:46 - Driver Initialzed
+2019-04-28 18:24:16 INFO  BaseClass:57 - Site Opened
+2019-04-28 18:24:24 INFO  BaseClass:17 - Gallery link clicked
+2019-04-28 18:24:28 INFO  BaseClass:46 - Driver Initialzed
+2019-04-28 18:24:47 INFO  BaseClass:57 - Site Opened
+2019-04-28 18:26:58 INFO  BaseClass:46 - Driver Initialzed
+2019-04-28 18:27:10 INFO  BaseClass:57 - Site Opened
+2019-04-28 18:27:14 INFO  BaseClass:17 - Gallery link clicked
+2019-04-28 18:27:19 INFO  BaseClass:46 - Driver Initialzed
+2019-04-28 18:27:31 INFO  BaseClass:57 - Site Opened
+2019-04-28 18:31:58 INFO  BaseClass:46 - Driver Initialzed
+2019-04-28 18:32:12 INFO  BaseClass:57 - Site Opened
+2019-04-28 18:32:15 INFO  BaseClass:17 - Gallery link clicked
+2019-04-28 18:32:19 INFO  BaseClass:46 - Driver Initialzed
+2019-04-28 18:32:33 INFO  BaseClass:57 - Site Opened
+2019-04-28 18:35:30 INFO  BaseClass:46 - Driver Initialzed
+2019-04-28 18:35:44 INFO  BaseClass:57 - Site Opened
+2019-04-28 18:35:47 INFO  BaseClass:17 - Gallery link clicked
+2019-04-28 18:35:52 INFO  BaseClass:46 - Driver Initialzed
+2019-04-28 18:36:05 INFO  BaseClass:57 - Site Opened
+2019-04-28 19:12:06 INFO  BaseClass:50 - Driver Initialzed
+2019-04-28 19:12:30 INFO  BaseClass:61 - Site Opened
+2019-04-28 19:12:35 INFO  BaseClass:18 - Gallery link clicked
+2019-04-28 19:12:39 INFO  BaseClass:50 - Driver Initialzed
+2019-04-28 19:12:56 INFO  BaseClass:61 - Site Opened
+2019-04-28 19:19:00 INFO  BaseClass:50 - Driver Initialzed
+2019-04-28 19:19:14 INFO  BaseClass:61 - Site Opened
+2019-04-28 19:19:19 INFO  BaseClass:18 - Gallery link clicked
+2019-04-28 19:19:20 INFO  BaseClass:75 - Screenshot taken
+2019-04-28 19:19:24 INFO  BaseClass:50 - Driver Initialzed
+2019-04-28 19:19:38 INFO  BaseClass:61 - Site Opened
+2019-04-28 19:21:48 INFO  BaseClass:50 - Driver Initialzed
+2019-04-28 19:22:01 INFO  BaseClass:61 - Site Opened
+2019-04-28 19:22:06 INFO  BaseClass:18 - Gallery link clicked
+2019-04-28 19:22:07 INFO  BaseClass:75 - Screenshot taken
+2019-04-28 19:22:11 INFO  BaseClass:50 - Driver Initialzed
+2019-04-28 19:22:26 INFO  BaseClass:61 - Site Opened
+2019-04-28 19:22:32 INFO  BaseClass:17 - Gallery link clicked
+2019-04-28 19:22:33 INFO  BaseClass:75 - Screenshot taken
+2019-04-28 22:07:41 INFO  BaseClass:50 - Driver Initialzed
+2019-04-28 22:08:09 INFO  BaseClass:50 - Driver Initialzed
+2019-04-28 22:09:17 INFO  BaseClass:50 - Driver Initialzed
+2019-04-28 22:09:43 INFO  BaseClass:61 - Site Opened
+2019-04-28 22:10:07 INFO  BaseClass:18 - Gallery link clicked
+2019-04-28 22:10:07 INFO  BaseClass:24 - Gallery Listings page is opened
+2019-04-28 22:10:07 INFO  BaseClass:33 - Gallery Title is displayed
+2019-04-28 22:10:14 INFO  BaseClass:50 - Driver Initialzed
+2019-04-28 22:10:36 INFO  BaseClass:61 - Site Opened
+2019-04-28 22:10:46 INFO  BaseClass:17 - Gallery link clicked
+2019-04-28 22:10:46 INFO  BaseClass:22 - Gallery Listings page is opened
+2019-04-28 22:10:46 INFO  BaseClass:31 - Publish Date is displayed
+2019-04-28 22:33:09 INFO  BaseClass:50 - Driver Initialzed
+2019-04-28 22:33:30 INFO  BaseClass:61 - Site Opened
+2019-04-28 22:33:38 INFO  BaseClass:18 - Gallery link clicked
+2019-04-28 22:33:38 INFO  BaseClass:23 - Gallery Listings page is opened
+2019-04-28 22:33:38 INFO  BaseClass:32 - Gallery Title is displayed
+2019-04-28 22:33:43 INFO  BaseClass:50 - Driver Initialzed
+2019-04-28 22:34:01 INFO  BaseClass:61 - Site Opened
+2019-04-28 22:34:15 INFO  BaseClass:17 - Gallery link clicked
+2019-04-28 22:34:15 INFO  BaseClass:22 - Gallery Listings page is opened
+2019-04-28 22:34:15 INFO  BaseClass:31 - Publish Date is displayed
+2019-04-28 22:34:23 INFO  BaseClass:50 - Driver Initialzed
+2019-04-28 22:34:49 INFO  BaseClass:61 - Site Opened
+2019-04-28 22:34:49 INFO  BaseClass:17 - Video widget is displayed
+2019-04-28 22:34:50 INFO  BaseClass:75 - Screenshot taken
+2019-04-28 22:34:50 INFO  BaseClass:21 - Video Widget is not displayed
+2019-04-28 22:35:08 INFO  BaseClass:23 - Video is clicked
+2019-04-28 23:00:36 INFO  BaseClass:50 - Driver Initialzed
+2019-04-28 23:02:34 INFO  BaseClass:61 - Site Opened
+2019-04-28 23:02:47 INFO  BaseClass:18 - Gallery link clicked
+2019-04-28 23:02:47 INFO  BaseClass:23 - Gallery Listings page is opened
+2019-04-28 23:02:47 INFO  BaseClass:32 - Gallery Title is displayed
+2019-04-28 23:02:52 INFO  BaseClass:50 - Driver Initialzed
+2019-04-28 23:06:22 INFO  BaseClass:61 - Site Opened
+2019-04-28 23:08:04 INFO  BaseClass:17 - Gallery link clicked
+2019-04-28 23:08:04 INFO  BaseClass:22 - Gallery Listings page is opened
+2019-04-28 23:08:04 INFO  BaseClass:31 - Publish Date is displayed
+2019-04-28 23:08:10 INFO  BaseClass:50 - Driver Initialzed
+2019-04-28 23:08:48 INFO  BaseClass:61 - Site Opened
+2019-04-28 23:08:48 INFO  BaseClass:17 - Video widget is displayed
+2019-04-28 23:08:48 INFO  BaseClass:75 - Screenshot taken
+2019-04-28 23:08:48 INFO  BaseClass:21 - Video Widget is not displayed
+2019-04-28 23:08:57 INFO  BaseClass:23 - Video is clicked
+2019-04-28 23:25:42 INFO  BaseClass:50 - Driver Initialzed
+2019-04-28 23:28:19 INFO  BaseClass:61 - Site Opened
+2019-04-28 23:28:36 INFO  BaseClass:18 - Gallery link clicked
+2019-04-28 23:28:36 INFO  BaseClass:23 - Gallery Listings page is opened
+2019-04-28 23:28:36 INFO  BaseClass:32 - Gallery Title is displayed
+2019-04-28 23:28:43 INFO  BaseClass:50 - Driver Initialzed
+2019-04-28 23:29:22 INFO  BaseClass:61 - Site Opened
+2019-04-28 23:29:58 INFO  BaseClass:17 - Gallery link clicked
+2019-04-28 23:29:58 INFO  BaseClass:22 - Gallery Listings page is opened
+2019-04-28 23:29:58 INFO  BaseClass:31 - Publish Date is displayed
+2019-04-28 23:30:03 INFO  BaseClass:50 - Driver Initialzed
+2019-04-28 23:30:26 INFO  BaseClass:61 - Site Opened
+2019-04-28 23:30:27 INFO  BaseClass:17 - Video widget is displayed
+2019-04-28 23:30:27 INFO  BaseClass:75 - Screenshot taken
+2019-04-28 23:30:27 INFO  BaseClass:21 - Video Widget is not displayed
+2019-04-28 23:30:55 INFO  BaseClass:23 - Video is clicked
+2019-04-28 23:32:17 INFO  BaseClass:50 - Driver Initialzed
+2019-04-28 23:32:38 INFO  BaseClass:61 - Site Opened
+2019-04-28 23:32:48 INFO  BaseClass:18 - Gallery link clicked
+2019-04-28 23:32:48 INFO  BaseClass:23 - Gallery Listings page is opened
+2019-04-28 23:32:48 INFO  BaseClass:32 - Gallery Title is displayed
+2019-04-28 23:32:53 INFO  BaseClass:50 - Driver Initialzed
+2019-04-28 23:33:21 INFO  BaseClass:61 - Site Opened
+2019-04-28 23:33:31 INFO  BaseClass:17 - Gallery link clicked
+2019-04-28 23:33:31 INFO  BaseClass:22 - Gallery Listings page is opened
+2019-04-28 23:33:31 INFO  BaseClass:31 - Publish Date is displayed
+2019-04-28 23:33:36 INFO  BaseClass:50 - Driver Initialzed
+2019-04-28 23:34:21 INFO  BaseClass:61 - Site Opened
+2019-04-28 23:34:21 INFO  BaseClass:17 - Video widget is displayed
+2019-04-28 23:34:22 INFO  BaseClass:75 - Screenshot taken
+2019-04-28 23:34:22 INFO  BaseClass:21 - Video Widget is not displayed
+2019-04-28 23:34:32 INFO  BaseClass:23 - Video is clicked
+2019-04-29 00:18:29 INFO  BaseClass:50 - Driver Initialzed
+2019-04-29 00:18:56 INFO  BaseClass:61 - Site Opened
+2019-04-29 00:19:15 INFO  BaseClass:18 - Gallery link clicked
+2019-04-29 00:19:15 INFO  BaseClass:23 - Gallery Listings page is opened
+2019-04-29 00:19:15 INFO  BaseClass:32 - Gallery Title is displayed
+2019-04-29 00:19:20 INFO  BaseClass:50 - Driver Initialzed
+2019-04-29 00:19:36 INFO  BaseClass:61 - Site Opened
+2019-04-29 00:19:44 INFO  BaseClass:17 - Gallery link clicked
+2019-04-29 00:19:44 INFO  BaseClass:22 - Gallery Listings page is opened
+2019-04-29 00:19:44 INFO  BaseClass:31 - Publish Date is displayed
+2019-04-29 00:19:48 INFO  BaseClass:50 - Driver Initialzed
+2019-04-29 00:20:03 INFO  BaseClass:61 - Site Opened
+2019-04-29 00:20:03 INFO  BaseClass:17 - Video widget is displayed
+2019-04-29 00:20:04 INFO  BaseClass:75 - Screenshot taken
+2019-04-29 00:20:04 INFO  BaseClass:21 - Video Widget is not displayed
+2019-04-29 00:20:07 INFO  BaseClass:23 - Video is clicked
+2019-04-29 00:24:41 INFO  BaseClass:50 - Driver Initialzed
+2019-04-29 00:24:58 INFO  BaseClass:61 - Site Opened
+2019-04-29 00:25:03 INFO  BaseClass:18 - Gallery link clicked
+2019-04-29 00:25:03 INFO  BaseClass:23 - Gallery Listings page is opened
+2019-04-29 00:25:03 INFO  BaseClass:32 - Gallery Title is displayed
+2019-04-29 00:25:08 INFO  BaseClass:50 - Driver Initialzed
+2019-04-29 00:25:26 INFO  BaseClass:61 - Site Opened
+2019-04-29 00:25:34 INFO  BaseClass:17 - Gallery link clicked
+2019-04-29 00:25:34 INFO  BaseClass:22 - Gallery Listings page is opened
+2019-04-29 00:25:34 INFO  BaseClass:31 - Publish Date is displayed
+2019-04-29 00:25:39 INFO  BaseClass:50 - Driver Initialzed
+2019-04-29 00:25:58 INFO  BaseClass:61 - Site Opened
+2019-04-29 00:25:58 INFO  BaseClass:17 - Video widget is displayed
+2019-04-29 00:25:59 INFO  BaseClass:75 - Screenshot taken
+2019-04-29 00:25:59 INFO  BaseClass:21 - Video Widget is not displayed
+2019-04-29 00:26:01 INFO  BaseClass:23 - Video is clicked
+2019-04-29 22:52:09 INFO  BaseClass:50 - Driver Initialzed
+2019-04-29 22:52:33 INFO  BaseClass:61 - Site Opened
+2019-04-29 22:52:37 INFO  BaseClass:18 - Gallery link clicked
+2019-04-29 22:52:37 INFO  BaseClass:23 - Gallery Listings page is opened
+2019-04-29 22:52:37 INFO  BaseClass:32 - Gallery Title is displayed
+2019-04-29 22:53:03 INFO  BaseClass:50 - Driver Initialzed
+2019-04-29 22:53:20 INFO  BaseClass:61 - Site Opened
+2019-04-29 22:53:28 INFO  BaseClass:17 - Gallery link clicked
+2019-04-29 22:53:28 INFO  BaseClass:22 - Gallery Listings page is opened
+2019-04-29 22:53:28 INFO  BaseClass:31 - Publish Date is displayed
+2019-04-29 22:53:57 INFO  BaseClass:50 - Driver Initialzed
+2019-04-29 22:54:16 INFO  BaseClass:61 - Site Opened
+2019-04-29 22:54:16 INFO  BaseClass:17 - Video widget is displayed
+2019-04-29 22:54:17 INFO  BaseClass:75 - Screenshot taken
+2019-04-29 22:54:17 INFO  BaseClass:21 - Video Widget is not displayed
+2019-04-29 22:54:23 INFO  BaseClass:23 - Video is clicked
+2019-04-29 22:58:10 INFO  BaseClass:50 - Driver Initialzed
+2019-04-29 22:58:26 INFO  BaseClass:61 - Site Opened
+2019-04-29 22:58:32 INFO  BaseClass:18 - Gallery link clicked
+2019-04-29 22:58:32 INFO  BaseClass:23 - Gallery Listings page is opened
+2019-04-29 22:58:32 INFO  BaseClass:32 - Gallery Title is displayed
+2019-04-29 22:58:58 INFO  BaseClass:50 - Driver Initialzed
+2019-04-29 22:59:19 INFO  BaseClass:61 - Site Opened
+2019-04-29 22:59:24 INFO  BaseClass:17 - Gallery link clicked
+2019-04-29 22:59:24 INFO  BaseClass:22 - Gallery Listings page is opened
+2019-04-29 22:59:24 INFO  BaseClass:31 - Publish Date is displayed
+2019-04-29 22:59:44 INFO  BaseClass:50 - Driver Initialzed
+2019-04-29 22:59:59 INFO  BaseClass:61 - Site Opened
+2019-04-29 22:59:59 INFO  BaseClass:17 - Video widget is displayed
+2019-04-29 23:00:00 INFO  BaseClass:75 - Screenshot taken
+2019-04-29 23:00:00 INFO  BaseClass:21 - Video Widget is not displayed
+2019-04-29 23:00:04 INFO  BaseClass:23 - Video is clicked
+2019-04-29 23:21:08 INFO  BaseClass:50 - Driver Initialzed
+2019-04-29 23:21:29 INFO  BaseClass:61 - Site Opened
+2019-04-29 23:21:37 INFO  BaseClass:18 - Gallery link clicked
+2019-04-29 23:21:37 INFO  BaseClass:23 - Gallery Listings page is opened
+2019-04-29 23:21:37 INFO  BaseClass:32 - Gallery Title is displayed
+2019-04-29 23:21:52 INFO  BaseClass:50 - Driver Initialzed
+2019-04-29 23:22:12 INFO  BaseClass:61 - Site Opened
+2019-04-29 23:22:16 INFO  BaseClass:17 - Gallery link clicked
+2019-04-29 23:22:16 INFO  BaseClass:22 - Gallery Listings page is opened
+2019-04-29 23:22:16 INFO  BaseClass:31 - Publish Date is displayed
+2019-04-29 23:22:40 INFO  BaseClass:50 - Driver Initialzed
+2019-04-29 23:23:04 INFO  BaseClass:61 - Site Opened
+2019-04-29 23:23:05 INFO  BaseClass:17 - Video widget is displayed
+2019-04-29 23:23:05 INFO  BaseClass:75 - Screenshot taken
+2019-04-29 23:23:05 INFO  BaseClass:21 - Video Widget is not displayed
+2019-04-29 23:23:10 INFO  BaseClass:23 - Video is clicked
+2019-04-29 23:42:23 INFO  BaseClass:50 - Driver Initialzed
+2019-04-29 23:42:45 INFO  BaseClass:61 - Site Opened
+2019-04-29 23:42:50 INFO  BaseClass:18 - Gallery link clicked
+2019-04-29 23:42:50 INFO  BaseClass:23 - Gallery Listings page is opened
+2019-04-29 23:42:51 INFO  BaseClass:32 - Gallery Title is displayed
+2019-04-29 23:43:12 INFO  BaseClass:50 - Driver Initialzed
+2019-04-29 23:43:26 INFO  BaseClass:61 - Site Opened
+2019-04-29 23:43:28 INFO  BaseClass:17 - Gallery link clicked
+2019-04-29 23:43:28 INFO  BaseClass:22 - Gallery Listings page is opened
+2019-04-29 23:43:28 INFO  BaseClass:31 - Publish Date is displayed
+2019-04-29 23:43:50 INFO  BaseClass:50 - Driver Initialzed
+2019-04-29 23:44:07 INFO  BaseClass:61 - Site Opened
+2019-04-29 23:44:07 INFO  BaseClass:17 - Video widget is displayed
+2019-04-29 23:44:07 INFO  BaseClass:75 - Screenshot taken
+2019-04-29 23:44:07 INFO  BaseClass:21 - Video Widget is not displayed
+2019-04-29 23:44:13 INFO  BaseClass:23 - Video is clicked
+2019-04-29 23:53:28 INFO  BaseClass:50 - Driver Initialzed
+2019-04-29 23:53:46 INFO  BaseClass:61 - Site Opened
+2019-04-29 23:53:52 INFO  BaseClass:18 - Gallery link clicked
+2019-04-29 23:53:52 INFO  BaseClass:23 - Gallery Listings page is opened
+2019-04-29 23:53:52 INFO  BaseClass:32 - Gallery Title is displayed
+2019-04-29 23:54:13 INFO  BaseClass:50 - Driver Initialzed
+2019-04-29 23:54:33 INFO  BaseClass:61 - Site Opened
+2019-04-29 23:54:38 INFO  BaseClass:17 - Gallery link clicked
+2019-04-29 23:54:38 INFO  BaseClass:22 - Gallery Listings page is opened
+2019-04-29 23:54:38 INFO  BaseClass:31 - Publish Date is displayed
+2019-04-29 23:55:06 INFO  BaseClass:50 - Driver Initialzed
+2019-04-29 23:55:36 INFO  BaseClass:61 - Site Opened
+2019-04-29 23:55:36 INFO  BaseClass:17 - Video widget is displayed
+2019-04-29 23:55:37 INFO  BaseClass:75 - Screenshot taken
+2019-04-29 23:55:37 INFO  BaseClass:21 - Video Widget is not displayed
+2019-04-29 23:55:42 INFO  BaseClass:23 - Video is clicked
+2019-04-29 23:58:26 INFO  BaseClass:50 - Driver Initialzed
+2019-04-29 23:58:43 INFO  BaseClass:61 - Site Opened
+2019-04-29 23:58:47 INFO  BaseClass:18 - Gallery link clicked
+2019-04-29 23:58:47 INFO  BaseClass:23 - Gallery Listings page is opened
+2019-04-29 23:58:47 INFO  BaseClass:32 - Gallery Title is displayed
+2019-04-29 23:59:09 INFO  BaseClass:50 - Driver Initialzed
+2019-04-29 23:59:28 INFO  BaseClass:61 - Site Opened
+2019-04-29 23:59:33 INFO  BaseClass:17 - Gallery link clicked
+2019-04-29 23:59:33 INFO  BaseClass:22 - Gallery Listings page is opened
+2019-04-29 23:59:33 INFO  BaseClass:31 - Publish Date is displayed
+2019-04-29 23:59:54 INFO  BaseClass:50 - Driver Initialzed
+2019-04-30 00:00:13 INFO  BaseClass:61 - Site Opened
+2019-04-30 00:00:13 INFO  BaseClass:17 - Video widget is displayed
+2019-04-30 00:00:14 INFO  BaseClass:75 - Screenshot taken
+2019-04-30 00:00:14 INFO  BaseClass:21 - Video Widget is not displayed
+2019-04-30 00:00:19 INFO  BaseClass:23 - Video is clicked
+2019-04-30 00:21:48 INFO  BaseClass:50 - Driver Initialzed
+2019-04-30 00:22:13 INFO  BaseClass:61 - Site Opened
+2019-04-30 00:22:21 INFO  BaseClass:18 - Gallery link clicked
+2019-04-30 00:22:21 INFO  BaseClass:23 - Gallery Listings page is opened
+2019-04-30 00:22:21 INFO  BaseClass:32 - Gallery Title is displayed
+2019-04-30 00:22:45 INFO  BaseClass:50 - Driver Initialzed
+2019-04-30 00:23:05 INFO  BaseClass:61 - Site Opened
+2019-04-30 00:23:09 INFO  BaseClass:17 - Gallery link clicked
+2019-04-30 00:23:09 INFO  BaseClass:22 - Gallery Listings page is opened
+2019-04-30 00:23:09 INFO  BaseClass:31 - Publish Date is displayed
+2019-04-30 00:23:33 INFO  BaseClass:50 - Driver Initialzed
+2019-04-30 00:23:50 INFO  BaseClass:61 - Site Opened
+2019-04-30 00:23:50 INFO  BaseClass:17 - Video widget is displayed
+2019-04-30 00:23:50 INFO  BaseClass:75 - Screenshot taken
+2019-04-30 00:23:50 INFO  BaseClass:21 - Video Widget is not displayed
+2019-04-30 00:23:55 INFO  BaseClass:23 - Video is clicked
+2019-04-30 00:28:15 INFO  BaseClass:50 - Driver Initialzed
+2019-04-30 00:28:34 INFO  BaseClass:61 - Site Opened
+2019-04-30 00:28:38 INFO  BaseClass:18 - Gallery link clicked
+2019-04-30 00:28:38 INFO  BaseClass:23 - Gallery Listings page is opened
+2019-04-30 00:28:39 INFO  BaseClass:32 - Gallery Title is displayed
+2019-04-30 00:29:01 INFO  BaseClass:50 - Driver Initialzed
+2019-04-30 00:29:17 INFO  BaseClass:61 - Site Opened
+2019-04-30 00:29:25 INFO  BaseClass:17 - Gallery link clicked
+2019-04-30 00:29:25 INFO  BaseClass:22 - Gallery Listings page is opened
+2019-04-30 00:29:25 INFO  BaseClass:31 - Publish Date is displayed
+2019-04-30 00:29:49 INFO  BaseClass:50 - Driver Initialzed
+2019-04-30 00:30:06 INFO  BaseClass:61 - Site Opened
+2019-04-30 00:30:06 INFO  BaseClass:17 - Video widget is displayed
+2019-04-30 00:30:06 INFO  BaseClass:75 - Screenshot taken
+2019-04-30 00:30:06 INFO  BaseClass:21 - Video Widget is not displayed
+2019-04-30 00:30:11 INFO  BaseClass:23 - Video is clicked

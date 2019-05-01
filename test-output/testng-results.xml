@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Astro-awani" duration-ms="147886" started-at="2019-04-28T14:32:41Z" finished-at="2019-04-28T14:35:09Z">
+    <groups>
+    </groups>
+    <test name="Awani1" duration-ms="147886" started-at="2019-04-28T14:32:41Z" finished-at="2019-04-28T14:35:09Z">
+      <class name="com.ecoSystem.testCases.HomePageVideo">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.ecoSystem.testCases.HomePageVideo@7dc222ae]" name="setup" is-config="true" duration-ms="32989" started-at="2019-04-28T14:34:16Z" finished-at="2019-04-28T14:34:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="homeVideo()[pri:0, instance:com.ecoSystem.testCases.HomePageVideo@7dc222ae]" name="homeVideo" duration-ms="18854" started-at="2019-04-28T14:34:49Z" finished-at="2019-04-28T14:35:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeVideo -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.ecoSystem.testCases.HomePageVideo@7dc222ae]" name="quit" is-config="true" duration-ms="876" started-at="2019-04-28T14:35:08Z" finished-at="2019-04-28T14:35:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.ecoSystem.testCases.HomePageVideo -->
+      <class name="com.ecoSystem.testCases.TC_GLTitle_C11907">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.ecoSystem.testCases.TC_GLTitle_C11907@2f8f5f62]" name="setup" is-config="true" duration-ms="48313" started-at="2019-04-28T14:32:42Z" finished-at="2019-04-28T14:33:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="galleryTitle()[pri:0, instance:com.ecoSystem.testCases.TC_GLTitle_C11907@2f8f5f62]" name="galleryTitle" duration-ms="8174" started-at="2019-04-28T14:33:30Z" finished-at="2019-04-28T14:33:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- galleryTitle -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.ecoSystem.testCases.TC_GLTitle_C11907@2f8f5f62]" name="quit" is-config="true" duration-ms="854" started-at="2019-04-28T14:33:38Z" finished-at="2019-04-28T14:33:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.ecoSystem.testCases.TC_GLTitle_C11907 -->
+      <class name="com.ecoSystem.testCases.GalleryPagePublishDate">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.ecoSystem.testCases.GalleryPagePublishDate@1068e947]" name="setup" is-config="true" duration-ms="21551" started-at="2019-04-28T14:33:39Z" finished-at="2019-04-28T14:34:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="galleyPublishDate()[pri:0, instance:com.ecoSystem.testCases.GalleryPagePublishDate@1068e947]" name="galleyPublishDate" duration-ms="14165" started-at="2019-04-28T14:34:01Z" finished-at="2019-04-28T14:34:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- galleyPublishDate -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.ecoSystem.testCases.GalleryPagePublishDate@1068e947]" name="quit" is-config="true" duration-ms="1157" started-at="2019-04-28T14:34:15Z" finished-at="2019-04-28T14:34:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.ecoSystem.testCases.GalleryPagePublishDate -->
+    </test> <!-- Awani1 -->
+  </suite> <!-- Astro-awani -->
+</testng-results>
